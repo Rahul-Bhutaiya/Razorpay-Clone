@@ -1,4 +1,4 @@
-# Razorpay Clone Using Tailwind [Responsive]
+# Razorpay UI Clone Using Tailwind [Responsive]
 
 - HTML
 - CSS
